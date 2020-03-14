@@ -163,4 +163,5 @@ Submit your solution for the Ruby on Rails tutorial chapter 2, make sure it's in
 * [Nick Sokolov's Solution](https://github.com/Nickollay/Odin_Hurtl_a_toy_app) - [Heroku](https://nkyejuov.herokuapp.com/)
 * [guacamobley's Solution](https://github.com/guacamobley/toy_app) - [Heroku](https://damp-stream-31259.herokuapp.com/)
 * [unheavenlycreature's Solution](https://github.com/unheavenlycreature/toy_app)
+* [Wilmir's Solution](https://github.com/Wilmir/toy-app) - [Heroku](https://wilmir-tutorial-toyapp.herokuapp.com/)
 </details>
